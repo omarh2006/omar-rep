@@ -1,5 +1,5 @@
 <?php
-echo "1commit";
+print "update from remote";
 /**
  * Created by PhpStorm.
  * User: عمر
