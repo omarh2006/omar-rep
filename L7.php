@@ -1,4 +1,5 @@
 <?php
+print "update from remote";
 /**
  * Created by PhpStorm.
  * User: عمر
