@@ -1,10 +1,5 @@
 <?php
-echo "1commit";
-echo "2commit";
-echo "3commit";
-/**
- * Created by PhpStorm.
- * User: عمر
- * Date: 10/16/2017
- * Time: 01:35 ص
- */
+print "update from remote";
+print "new line";
+print "new line also";
+print "new";
