@@ -12,5 +12,5 @@ function nav(){
     print "<button>back</button>";
     print "<button>1</button>";
     print "<button>next</button>";
-
+    // new stash
 }
