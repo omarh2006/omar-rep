@@ -8,5 +8,6 @@ function nav(){
     $back = "";
     $next = "";
     $current = "";
-    // back
+    // add back button
+
 }
