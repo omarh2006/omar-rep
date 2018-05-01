@@ -13,5 +13,7 @@ function nav(){
     print "<button>1</button>";
     print "<button>2</button>";
     print "<button>3</button>";
+    print "<button>4</button>";
+    print "<button>5</button>";
     print "<button>next</button>";
 }
