@@ -9,6 +9,8 @@ function nav(){
     $next = "";
     $current = "";
     // add back button
-    print "back";
+    print "<button>back</button>";
+    print "<button>1</button>";
+    print "<button>next</button>";
 
 }
